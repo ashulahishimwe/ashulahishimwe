@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashulahishimwe
-- 👀 I’m interested in data science and backend development, cybersecurity.
-- 🌱 I’m currently learning infomation systems.
+- 👀 I’m interested in data science and backend development.
+- 🌱 I’m currently learning infomation systems and Data analysis course.
 - 💞️ I’m looking to collaborate on  data science tool and backend.
 - 📫 How to reach me my email: ishimwea640@gmail.com
 

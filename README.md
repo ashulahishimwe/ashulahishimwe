@@ -1,4 +1,4 @@
-# Ashula Ishimwe
+# Ashura Ishimwe
 
 Bacholors in Information Systems 
 Data Analysis | Machine Learning | Data science
